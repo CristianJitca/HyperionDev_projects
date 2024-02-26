@@ -26,13 +26,12 @@ This is a simple Task Management System that allows users to register, add tasks
 ## Screenshots
 
 
-![Login_and_menu](https://github.com/CristianJitca/finalCapstone/assets/151676000/df964c82-989e-4e73-b9b4-1e81800f03dd)
-![User_register](https://github.com/CristianJitca/finalCapstone/assets/151676000/e9cc8113-91b5-44ff-bdcb-f9a2a5a3ec5b)
-![Adding_task](https://github.com/CristianJitca/finalCapstone/assets/151676000/7a908894-ee6e-4d13-b697-783d4f496ffd)
-![View_all_tasks](https://github.com/CristianJitca/finalCapstone/assets/151676000/2ead1fba-029e-44d4-8e36-f865cefc191a)
-![View_my_tasks](https://github.com/CristianJitca/finalCapstone/assets/151676000/26ad745a-f59c-4bd8-b846-3ac98928e3bb)
-![Display_statistics](https://github.com/CristianJitca/finalCapstone/assets/151676000/b5d61446-24fd-40c9-aaf5-9fe92fdad4dc)
-
+![Login_and_menu](https://github.com/CristianJitca/finalCapstone/assets/151676000/e2515a00-4d7b-44ef-90fc-43a414cf507e)
+![User_register](https://github.com/CristianJitca/finalCapstone/assets/151676000/e72df1a1-b6ec-481e-a0be-a7fdb2c3e3f2)
+![Adding_task](https://github.com/CristianJitca/finalCapstone/assets/151676000/48d51359-066c-49e1-b3b6-d50eea2d44be)
+![View_all_tasks](https://github.com/CristianJitca/finalCapstone/assets/151676000/56117112-d8cb-4962-a7e0-361235a3ec2f)
+![View_my_tasks](https://github.com/CristianJitca/finalCapstone/assets/151676000/f2433dcc-956f-48c5-882a-581dcdb9a7bb)
+![Display_statistics](https://github.com/CristianJitca/finalCapstone/assets/151676000/94fc1550-8dd2-42f9-88df-d0b94e2ab343)
 
 
 ## Credits
