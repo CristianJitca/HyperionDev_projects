@@ -37,6 +37,6 @@ This is a simple Task Management System that allows users to register, add tasks
 
 ## Credits
 
-- [Cristian Jitca ] ( https://github.com/CristianJitca )
+- [Cristian Jitca ](https://github.com/CristianJitca)
 
 
