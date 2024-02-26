@@ -2,3 +2,8 @@ admin;Add functionality to task manager;Add additional options and refactor the 
 Cristian;Adding task;Adding task 1;2025-01-01;2024-02-10;No
 Chris;Adding task;Task 1;2024-03-03;2024-02-10;No
 Joo;Adding task;Task 1;2023-09-09;2024-02-10;No
+Jax;Test_task;Testing task;2024-05-20;2024-02-26;No
+Jax;Test;Test;2024-03-30;2024-02-26;No
+Jax;new_task;new;2024-03-03;2024-02-26;No
+Jax;new;new;2024-03-03;2024-02-26;No
+Andre;Testing ;Testing the file;2024-03-20;2024-02-26;No

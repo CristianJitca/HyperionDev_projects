@@ -133,8 +133,9 @@ def add_task(task_list, username_password):
         try:
             task_due_date = input("Due date of task (YYYY-MM-DD): ")
             due_date_time = datetime.strptime(task_due_date, DATETIME_STRING_FORMAT)
+            print(f"New task added!")
             break
-
+            
         except ValueError:
             print("Invalid datetime format. Please use the format specified")
 
@@ -378,8 +379,6 @@ e  - Exit
     elif menu == 'a':
         print()
         add_task(task_list, username_password)
-        for t in task_list:
-            print(display_task_details(t))
         
     elif menu == 'va':
         print()   
