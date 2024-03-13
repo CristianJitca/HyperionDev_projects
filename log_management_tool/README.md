@@ -30,4 +30,4 @@ The Log Management Tool is a Python script designed to help users manage and ana
 
 ## Credits
 
-https://github.com/CristianJitca
+- [Cristian Jitca ](https://github.com/CristianJitca)
