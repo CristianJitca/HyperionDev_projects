@@ -1,0 +1,10 @@
+2024-03-01  08:30 AM | Order Placed | 129566 | Warehouse A | Clothing Set
+2024-03-02  10:00 AM | Order Placed | 225286 | Warehouse B | Kitchen Appliance Bundle
+2024-03-06  09:00 AM | Order Placed | 829546 | Warehouse C | Sports Equipment
+2024-03-07  10:00 AM | Order Placed | 723226 | Warehouse D | Home Decor Items
+2024-03-08  08:30 AM | Order Placed | 523536 | Warehouse E | Book Collection
+2024-03-11  09:00 AM | Order Placed | 123546 | Warehouse F | Outdoor Camping Gear
+2024-03-12  08:45 AM | Order Placed | 333516 | Warehouse G | Pet Care Supplies
+2024-03-13  08:30 AM | Order Placed | 173896 | Warehouse H | Beauty and Skincare Kit
+2024-03-14  09:00 AM | Order Placed | 113386 | Warehouse I | Board Games Set
+2024-03-15  08:45 AM | Order Placed | 223296 | Warehouse J | Tech Gadgets Bundle
