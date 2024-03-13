@@ -20,9 +20,9 @@ The Log Management Tool is a Python script designed to help users manage and ana
 
 ## Usage
 
-1.Upon running the script, a menu will be displayed with options to choose different log files or exit.
-2.Choose the desired log file by entering the corresponding number.
-3.Follow the prompts or instructions provided to view specific log entries or details.
+1. Upon running the script, a menu will be displayed with options to choose different log files or exit.
+2. Choose the desired log file by entering the corresponding number.
+3. Follow the prompts or instructions provided to view specific log entries or details.
 
 ## Screenshots
 
