@@ -26,7 +26,11 @@ The Log Management Tool is a Python script designed to help users manage and ana
 
 ## Screenshots
 
-(coming soon)
+![Menu](https://github.com/CristianJitca/finalCapstone/assets/151676000/184aea67-abfe-4a1f-af30-fe08f06fb539)
+![View_order_using_number](https://github.com/CristianJitca/finalCapstone/assets/151676000/29cd27fa-cd18-4625-9454-1e49003ba7cf)
+![View_placed_order](https://github.com/CristianJitca/finalCapstone/assets/151676000/c7c11bc0-baf2-489d-bbb0-5ed205e092dc)
+![View_returns](https://github.com/CristianJitca/finalCapstone/assets/151676000/23c9f258-ebc1-4313-8305-613e45fc9bdd)
+
 
 ## Credits
 
